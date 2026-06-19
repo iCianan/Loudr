@@ -7,7 +7,7 @@ const _inter = Inter({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Loudr — Share What You Hear',
+  title: 'What Up Doe Music — Share What You Hear',
   description: 'A social music platform to brag about your taste and discover new tracks from friends.',
   generator: 'v0.app',
   icons: {

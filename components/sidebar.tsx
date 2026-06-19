@@ -44,7 +44,7 @@ export default function Sidebar({ activePage, setActivePage }: SidebarProps) {
         <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-brand">
           <Music2 size={16} className="text-brand-foreground" />
         </div>
-        <span className="text-lg font-bold tracking-tight text-foreground">Loudr</span>
+        <span className="text-lg font-bold tracking-tight text-foreground">What Up Doe</span>
       </div>
 
       {/* Nav */}
